@@ -4,9 +4,13 @@ To run the game:
 
 (1) Run the Leap Application
 
-(2) git clone git@github.com:robrighter/Leap-Motion-Rock-Paper-Scissors.git
+(2) Run:
 
-(3) Leap-Motion-Rock-Paper-Scissors/www
+	git clone git@github.com:robrighter/Leap-Motion-Rock-Paper-Scissors.git
+
+(3) Run:
+
+	cd Leap-Motion-Rock-Paper-Scissors/www
 
 (4) python -m SimpleHTTPServer
 
