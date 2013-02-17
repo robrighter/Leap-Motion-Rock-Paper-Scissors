@@ -1,0 +1,19 @@
+{
+  "name": "leap-rock-paper-scissors",
+  "title": "Rock Paper Scissors for Leap Motion",
+  "version": "0.0.1",
+  "description": "Play Rock Paper Scissors with the Leap Motion",
+  "amd": {},
+  "volo": {
+    "baseUrl": "www/js/lib",
+    "dependencies": {
+      "jquery": "github:jquery/jquery/1.9.1"
+    }
+  },
+  "dependencies": {
+    "grunt": "~0.3.11",
+    "grunt-contrib": "~0.1.0",
+    "grunt-recess": "~0.1.0",
+    "grunt-jade": "0.3.7"
+  }
+}

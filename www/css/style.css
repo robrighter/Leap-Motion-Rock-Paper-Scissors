@@ -1,0 +1,43 @@
+
+.rock {
+	background-image: url(../images/rock.png);
+	width: 261px;
+	height: 185px;
+}
+
+
+.paper {
+	background-image: url(../images/paper.png);
+	width: 140px;
+	height: 230px;
+}
+
+
+.scissors {
+	background-image: url(../images/scissors.png);
+	width: 161px;
+	height: 276px;
+}
+
+.nothing {
+	width: 160px;
+	height: 250px;
+	content: 'nothing';
+	font-size: 20px;
+	color: black;
+}
+
+
+
+#narration {
+	color: black;
+	font-family: Arial, Helvetica;
+	font-size: 30px;
+}
+
+#userchoice {
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 100px;
+}
+
