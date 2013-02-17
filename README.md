@@ -12,7 +12,9 @@ To run the game:
 
 	cd Leap-Motion-Rock-Paper-Scissors/www
 
-(4) python -m SimpleHTTPServer
+(4) Run: 
+
+	python -m SimpleHTTPServer
 
 (5) goto http://localhost:8000/
 
