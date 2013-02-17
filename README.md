@@ -1,25 +1,21 @@
-This web project has the following setup:
+Rock Paper Scissors for the Leap Motion
 
-* www/ - the web assets for the project
-    * index.html - the entry point into the app.
-    * js/
-        * app.js - the top-level config script used by index.html
-        * app/ - the directory to store project-specific scripts.
-        * lib/ - the directory to hold third party scripts.
-* tools/ - the build tools to optimize the project.
+To run the game:
 
-To optimize, run:
+(1) Run the Leap Application
 
-    volo build
+(2) git clone git@github.com:robrighter/Leap-Motion-Rock-Paper-Scissors.git
 
-This will run the "build" command in the volofile that is in this directory.
+(3) Leap-Motion-Rock-Paper-Scissors/www
 
-That build command creates an optimized version of the project in a
-**www-built** directory. The js/app.js file will be optimized to include
-all of its dependencies.
+(4) python -m SimpleHTTPServer
 
-For more information on the optimizer:
-http://requirejs.org/docs/optimization.html
+(5) goto http://localhost:8000/
 
-For more information on using requirejs:
-http://requirejs.org/docs/api.html
+(6) hold out a rock to start playing
+
+** Note you should separate out 5 fingers for paper
+
+
+Image Credits:
+http://imgfave.com/view/2284560

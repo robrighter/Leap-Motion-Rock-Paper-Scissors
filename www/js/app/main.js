@@ -32,7 +32,7 @@ define(function (require) {
 						setTimeout(function(){
 							//start waiting for a new game
 							waitForAGame();
-						}, 4000);
+						}, 3000);
 					});
 				},COUNT_SPEED);
 			},COUNT_SPEED);
